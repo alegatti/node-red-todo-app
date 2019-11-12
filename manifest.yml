@@ -1,0 +1,4 @@
+applications:
+- name: alegatti-test-2-node-red-todo-app
+  memory: 256MB
+  instances: 1
